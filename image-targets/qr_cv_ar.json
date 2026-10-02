@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 71,
+    "width": 729,
+    "height": 972,
+    "isRotated": false,
+    "originalWidth": 872,
+    "originalHeight": 972
+  },
+  "imagePath": "image-targets/qr_cv_ar_luminance.png",
+  "metadata": null,
+  "name": "qr_cv_ar",
+  "resources": {
+    "originalImage": "qr_cv_ar_original.png",
+    "croppedImage": "qr_cv_ar_cropped.png",
+    "thumbnailImage": "qr_cv_ar_thumbnail.png",
+    "luminanceImage": "qr_cv_ar_luminance.png"
+  },
+  "created": 1790966508466,
+  "updated": 1790966508466
+}

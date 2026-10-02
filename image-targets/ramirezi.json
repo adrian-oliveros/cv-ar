@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 21,
+    "left": 0,
+    "width": 568,
+    "height": 757,
+    "isRotated": true,
+    "originalWidth": 568,
+    "originalHeight": 800
+  },
+  "imagePath": "image-targets/ramirezi_luminance.jpg",
+  "metadata": null,
+  "name": "ramirezi",
+  "resources": {
+    "originalImage": "ramirezi_original.jpg",
+    "croppedImage": "ramirezi_cropped.jpg",
+    "thumbnailImage": "ramirezi_thumbnail.jpg",
+    "luminanceImage": "ramirezi_luminance.jpg"
+  },
+  "created": 1790973300065,
+  "updated": 1790973300065
+}
